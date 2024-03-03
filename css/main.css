@@ -1,0 +1,9 @@
+/* Image */
+
+    .image {
+        border-radius: 8px;
+        border: 0;
+        display: inline-block;
+        position: relative;
+    }
+    
