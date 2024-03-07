@@ -9,7 +9,6 @@
 
 /* Header */
     .header {
-        display: flex;
         border-bottom: 5px;
         border: 1;
         width: 600px;
