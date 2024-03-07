@@ -15,11 +15,11 @@
         height: 100px;
         position: fixed;
         background-color: aquamarine;
+        align-content: center;
     }
 
         .main-header h1{
             max-width: 800px;
             text-align: center;
             font-size: 50px;
-            justify-content: center;
         }
