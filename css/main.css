@@ -15,6 +15,7 @@
         height: 100px;
         position: fixed;
         background-color: aquamarine;
+        justify-content: center;
     }
 
         .main-header h1{
