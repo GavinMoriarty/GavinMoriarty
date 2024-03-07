@@ -9,6 +9,7 @@
 
 /* Header */
     .header {
+        display: flex;
         border-bottom: 5px;
         border: 1;
         width: 600px;
@@ -16,6 +17,7 @@
         position: fixed;
         background-color: aquamarine;
         align-content: center;
+        justify-content: center;
     }
 
         .main-header h1{
