@@ -12,7 +12,9 @@
         display: flex;
         border-bottom: 5px;
         border: 1;
-        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
         height: 100px;
         position: fixed;
         background-color: aquamarine;
