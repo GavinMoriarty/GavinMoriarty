@@ -5,7 +5,6 @@
         width: 64em;
         max-width: calc(100% - 4em);
         margin: 0 auto;
-        background-color: #E2674C;
     }
 
         @media screen and (max-width: 480px) {
@@ -42,12 +41,18 @@
         display: flex;
         justify-content: space-around;
         background-color: #4CC7E2;
+        height: 75px;
     }
 
         .main-header h1{
             max-width: 800px;
-            font-size: 50px;
+            font-size: 150px;
         }
+
+/* Colours */
+    .background-colour {
+        background-color: #E2674C;
+    }
 
 /* Testing 
 
