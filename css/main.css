@@ -40,18 +40,8 @@
 /* Header */
     .header {
         display: flex;
-        border-bottom: 5px;
-        border: 1;
-        margin-left: auto;
-        margin-right: auto;
-        width: 100%;
-        height: 100px;
-        position: fixed;
-        background-color: aquamarine;
-        align-content: center;
         justify-content: space-around;
-        text-align: center;
-        vertical-align: middle;
+        background-color: #4CC7E2;
     }
 
         .main-header h1{
@@ -59,10 +49,12 @@
             font-size: 50px;
         }
 
-/* Testing */
+/* Testing 
 
     .test {
         display: flex;
         justify-content: space-around;
-        background-color: beige;
+        background-color: #4CC7E2;
     }
+
+    */
