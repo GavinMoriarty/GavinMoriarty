@@ -45,7 +45,7 @@
     }
 
         .main-header h1{
-            max-width: 800px;
+            max-width: fit-content;
             font-size: 150px;
         }
 
