@@ -29,8 +29,11 @@ title {
 
 /* Body */
     .body1 {
+        float: left;
         max-width: fit-content;
     }
+
+/* columns */
 
 /* Image */
 
@@ -45,9 +48,9 @@ title {
 /* Header */
     .header {
         display: flex;
-        justify-content: space-around;
         background-color: #4CC7E2;
-        height: 50px;
+        text-align: center;
+        padding: 20px;
     }
 
         .main-header h1{
