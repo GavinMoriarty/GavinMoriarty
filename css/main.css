@@ -32,7 +32,7 @@ title {
 
     .image {
         border-radius: 8px;
-        border: 0;
+        border: 1;
         display: inline-block;
         position: relative;
         margin-left: auto;
