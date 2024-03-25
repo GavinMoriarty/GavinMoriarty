@@ -28,7 +28,7 @@ title {
 		}
 
 /* Body */
-    #body {
+    .body {
         float: left;
         width: 100%;
         background-color: white;
