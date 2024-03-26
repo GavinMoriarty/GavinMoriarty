@@ -71,8 +71,8 @@ title {
         padding: 20px;
     }
 
-        .main-header h1{
-            font-size: 5em;
+        header h1 {
+            font-size: 20vw;
         }
 
 /* Colours */
