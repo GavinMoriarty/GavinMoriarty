@@ -53,6 +53,15 @@ title {
         justify-content: center;
     }
 
+    .headshot {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding 0;
+        margin: 0 auto;
+        max-width: 50%;
+    }
+
 /* Header */
     .header {
         display: flex;
