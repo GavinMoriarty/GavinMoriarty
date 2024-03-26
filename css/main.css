@@ -82,6 +82,13 @@ title {
         background-color: #E2674C;
     }
 
+/* Footer */
+    .footer {
+        text-align: center;
+        padding: 5px;
+        background-color: slategray;
+    }
+
 /* Testing 
 
     .test {
