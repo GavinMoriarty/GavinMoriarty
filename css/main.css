@@ -57,9 +57,10 @@ title {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        padding 0;
+        padding: 0;
         margin: 0 auto;
         max-width: 50%;
+        object-fit: contain;
     }
 
 /* Header */
