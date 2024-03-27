@@ -66,7 +66,7 @@ title {
 
 /* Header */
     .header {
-        display: flex;
+        float: left;
         background-color: #4CC7E2;
         text-align: center;
         padding: 20px;
@@ -89,7 +89,8 @@ title {
         clear: both;
         text-align: center;
         padding: 5px;
-        color: slategray;
+        background-color: slategray;
+        padding-top: 10px;
     }
 
 /* Testing 
