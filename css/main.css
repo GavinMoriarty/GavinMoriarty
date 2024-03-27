@@ -2,7 +2,6 @@
 /* Body */
     #body {
         float: left;
-        width: 100vw;
         padding: 20px;
         background-color: white;
         align-content: center;
