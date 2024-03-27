@@ -6,7 +6,7 @@
         background-color: white;
         align-content: center;
         text-align: center;
-        box-sizing: border-box;
+        max-width: 100%;
     }
 
 /* Footer */
