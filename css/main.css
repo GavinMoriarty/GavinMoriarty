@@ -6,6 +6,7 @@
         padding: 20px;
         background-color: white;
         align-content: center;
+        text-align: center;
     }
 
 /* Footer */
@@ -30,7 +31,6 @@
         text-align: center;
         padding: 20px;
         align-content: center;
-        width: 100vw;
     }
 
 /* Image */
