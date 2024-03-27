@@ -74,9 +74,8 @@ title {
         width: 100%;
     }
 
-        header h1 {
-            font-size: 20vw;
-            width: 100%;
+        #header h1 {
+            font-size: 100px;
         }
 
 /* Colours */
