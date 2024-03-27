@@ -12,9 +12,10 @@
 /* Footer */
     #footer {
         position: absolute;
-        display: block;
+        display: flex;
         background-color: gray;
         padding: 10px;
+        bottom: 0;
     }
 
 /* Header */
