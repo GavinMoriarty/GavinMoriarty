@@ -86,9 +86,10 @@ title {
 
 /* Footer */
     .footer {
+        clear: both;
         text-align: center;
         padding: 5px;
-        background-color: slategray;
+        color: slategray;
     }
 
 /* Testing 
