@@ -7,6 +7,7 @@
         align-content: center;
         text-align: center;
         max-width: 100%;
+        box-sizing: border-box;
     }
 
 /* Footer */
@@ -19,6 +20,7 @@
         bottom: 0;
         left: 0;
         width: 100%;
+        box-sizing: border-box;
     }
 
 /* Header */
@@ -28,6 +30,7 @@
         padding: 5px;
         align-content: center;
         max-width: 100%;
+        box-sizing: border-box;
     }
 
 /* Image */
