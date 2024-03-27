@@ -7,13 +7,11 @@ title {
 /* Wrapper */
 
     #wrapper {
-        width: 64em;
-        max-width: calc(100% - 4em);
-        margin: 0 auto;
-        position: relative;
-        min-height: 100vh;
-        display: flex;
-        flex-direction: column;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 1000px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
         @media screen and (max-width: 480px) {
