@@ -2,7 +2,7 @@
 /* Body */
     #body {
         float: left;
-        width: 100%;
+        width: 100vw;
         padding: 20px;
         background-color: white;
         align-content: center;
@@ -30,7 +30,7 @@
         text-align: center;
         padding: 20px;
         align-content: center;
-        width: 100%;
+        width: 100vw;
     }
 
 /* Image */
