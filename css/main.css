@@ -14,7 +14,7 @@
     #footer {
         clear: both;
         position: absolute;
-        display: flex;
+        display: inline-block;
         background-color: gray;
         padding: 10px;
         bottom: 0;
