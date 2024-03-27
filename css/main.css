@@ -1,42 +1,35 @@
 
-/* Title */
-title {
-    display: none;
-}
-
-/* Wrapper */
-
-    #wrapper {
-        margin-right: auto;
-        margin-left: auto;
-        max-width: 1000px;
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-
 /* Body */
     #body {
         float: left;
-        width: 95vw;
+        width: 100%;
+        padding: 20px;
         background-color: white;
-        align-content: center;
+    }
+
+/* Footer */
+    .footer {
+        clear: both;
+        position: relative;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 50px;
+        text-align: left;
+        padding: 5px;
+        background-color: slategray;
+        color: black;
+        padding-top: 10px;
+        margin-top: -50px;
+    }
+
+/* Header */
+    #header {
+        background-color: #4CC7E2;
         text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-        padding-bottom: 50px;
-    }
-
-/* Center */
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-
-/* section */
-    section {
-        display: block;
+        padding: 20px;
+        align-content: center;
+        width: 1vw;
     }
 
 /* Image */
@@ -59,39 +52,19 @@ title {
         object-fit: contain;
     }
 
-/* Header */
-    .header {
-        float: left;
-        background-color: #4CC7E2;
-        text-align: center;
-        padding: 5px;
-        align-content: center;
-        width: 95vw;
+/* Title */
+    title {
+        display: none;
     }
 
-        #header h1 {
-            font-size: 100px;
-        }
+/* Wrapper */
 
-/* Colours */
-    .background-colour {
-        background-color: #E2674C;
-    }
-
-/* Footer */
-    .footer {
-        clear: both;
-        position: relative;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        height: 50px;
-        text-align: left;
-        padding: 5px;
-        background-color: slategray;
-        color: black;
-        padding-top: 10px;
-        margin-top: -50px;
+    #wrapper {
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 1000px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
 /* Testing 
