@@ -33,6 +33,11 @@ title {
         width: 50%;
     }
 
+/* section */
+    section {
+        display: block;
+    }
+
 /* Image */
 
     .image {
