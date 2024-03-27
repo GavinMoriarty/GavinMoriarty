@@ -11,6 +11,9 @@ title {
         max-width: calc(100% - 4em);
         margin: 0 auto;
         position: relative;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
     }
 
         @media screen and (max-width: 480px) {
