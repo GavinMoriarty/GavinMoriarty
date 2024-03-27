@@ -2,10 +2,11 @@
 /* Body */
     #body {
         float: left;
-        padding: 20px;
+        padding: 5px;
         background-color: white;
         align-content: center;
         text-align: center;
+        box-sizing: border-box;
     }
 
 /* Footer */
