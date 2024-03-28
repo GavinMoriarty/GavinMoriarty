@@ -1,7 +1,7 @@
 
 /* Body */
     #body {
-        float: left;
+        float: center;
         display: flex;
         flex-direction: column;
         padding: 5px;
@@ -9,18 +9,19 @@
         align-content: center;
         text-align: center;
         width: 75vw;
+        padding-bottom: 50px;
     }
 
 /* Footer */
     #footer {
         clear: both;
-        position: absolute;
+        position: fixed;
         background-color: gray;
         padding: 10px 0;
         bottom: 0;
         left: 0;
         width: 100%;
-        flex-shrink: 0;
+        height: 50px;
     }
 
 /* Header */
