@@ -4,23 +4,23 @@
         float: center;
         display: flex;
         flex-direction: column;
-        padding: 5px;
+        padding: 5vw;
         background-color: white;
         align-content: center;
         text-align: center;
-        width: 75vw;
+        width: 100vw;
         padding-bottom: 50px;
     }
 
 /* Footer */
     #footer {
         clear: both;
-        position: fixed;
+        position: absolute;
         background-color: gray;
-        padding: 10px 0;
+        padding: 5vw;
         bottom: 0;
         left: 0;
-        width: 100%;
+        width: 100vw;
         height: 50px;
     }
 
@@ -28,9 +28,9 @@
     #header {
         background-color: #4CC7E2;
         text-align: center;
-        padding: 5px;
+        padding: 5vw;
         align-content: center;
-        width: 75vw;
+        width: 100vw;
     }
 
 /* Image */
