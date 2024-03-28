@@ -4,7 +4,8 @@
         float: center;
         display: flex;
         flex-direction: column;
-        padding: 5vw;
+        position: relative;
+        padding: 5px;
         background-color: white;
         align-content: center;
         text-align: center;
@@ -17,7 +18,7 @@
         clear: both;
         position: absolute;
         background-color: gray;
-        padding: 5vw;
+        padding: 5px;
         bottom: 0;
         left: 0;
         width: 100vw;
@@ -28,7 +29,7 @@
     #header {
         background-color: #4CC7E2;
         text-align: center;
-        padding: 5vw;
+        padding: 5px;
         align-content: center;
         width: 100vw;
     }
