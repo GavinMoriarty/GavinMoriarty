@@ -6,6 +6,7 @@
         background-color: white;
         align-content: center;
         width: 100%;
+        height: auto;
     }
 
     #body2 {
@@ -21,7 +22,7 @@
 a
 
     #snapshot {
-        position: absolute;
+        position: relative;
         background: goldenrod;
         height: 200px;
         width: 50%;
@@ -63,7 +64,7 @@ a
     }
 
     #headshot {
-        position: absolute;
+        position: relative;
         width: 25%;
         height: auto;
         top: 50%;
