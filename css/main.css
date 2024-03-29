@@ -13,6 +13,16 @@
         padding-bottom: 35px;
     }
 
+/* Elements */
+    #snapshot {
+        position: absolute;
+        background: goldenrod;
+        height: 200px;
+        width: 50%;
+        top: 50%;
+        left: 50%;
+    }
+
 /* Footer */
     #footer {
         clear: both;
@@ -35,7 +45,6 @@
     }
 
 /* Image */
-
     .image {
         border-radius: 8px;
         border: 0;
@@ -44,14 +53,12 @@
         justify-content: center;
     }
 
-    .headshot {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        padding: 0;
-        margin: 0 auto;
-        max-width: 50%;
-        object-fit: contain;
+    #headshot {
+        position: absolute;
+        width: auto;
+        height: 200px;
+        top: 50%;
+        left: 25%;
     }
 
 /* Title */
@@ -69,7 +76,6 @@
     }
 
 /* Testing 
-
     .test {
         display: flex;
         justify-content: space-around;
