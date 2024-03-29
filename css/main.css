@@ -2,7 +2,7 @@
 /* Body */
     #body {
         float: center;
-        display: flex;
+        display: block;
         overflow: auto;
         flex-direction: column;
         position: relative;
