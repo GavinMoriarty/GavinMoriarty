@@ -1,7 +1,7 @@
 
 /* Body */
     #body1 {
-        display: flex;
+        display: block;
         flex-direction: column;
         position: relative;
         padding: 5px;
@@ -17,19 +17,14 @@
         width: 100%;
         padding: 5px;
         background-color: orchid;
-        display: flex;
+        display: block;
         flex-direction: column;
         position: relative;
         padding-bottom: 35px;
     }
 
 /* Elements */
-    #containter {
-        display: grid;
-        align-items: center;
-        grid-template-columns: 1fr 1fr 1fr;
-        column-gap: 5px;
-    }
+a
 
     #snapshot {
         position: absolute;
