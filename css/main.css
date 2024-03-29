@@ -2,24 +2,19 @@
 /* Body */
     #body1 {
         display: block;
-        flex-direction: column;
-        position: relative;
         padding: 5px;
         background-color: white;
         align-content: center;
         width: 100%;
-        height: 100vh;
         padding-bottom: 35px;
     }
 
     #body2 {
+        display: block;
         height: 200px;
         width: 100%;
         padding: 5px;
         background-color: orchid;
-        display: block;
-        flex-direction: column;
-        position: relative;
         padding-bottom: 35px;
     }
 
