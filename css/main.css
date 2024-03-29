@@ -2,8 +2,7 @@
 /* Body */
     #body {
         float: center;
-        display: block;
-        overflow: auto;
+        display: flex;
         flex-direction: column;
         position: relative;
         padding: 5px;
