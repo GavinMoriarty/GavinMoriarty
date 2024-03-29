@@ -9,7 +9,7 @@
         height: auto;
     }
 
-        #body #snapshot {
+        #body1 #snapshot {
             position: absolute;
             background: goldenrod;
             height: 200px;
