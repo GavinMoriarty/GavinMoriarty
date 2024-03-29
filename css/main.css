@@ -22,7 +22,7 @@
 a
 
     #snapshot {
-        position: relative;
+        position: absolute;
         background: goldenrod;
         height: 200px;
         width: 50%;
