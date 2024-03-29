@@ -9,22 +9,17 @@
         height: auto;
     }
 
-        #body1 #container {
-            width: 100%;
+        #body1 #snapshot {
+            position: relative;
+            background: goldenrod;
             height: auto;
+            width: 50%;
+            top: 50%;
+            left: 37.5%;
+            text-align: left;
+            float: right;
+            padding-left: 10px;
         }
-
-            #body1 #conatiner #snapshot {
-                position: relative;
-                background: goldenrod;
-                height: auto;
-                width: 50%;
-                top: 50%;
-                left: 37.5%;
-                text-align: left;
-                float: right;
-                padding-left: 10px;
-            }
 
     #body2 {
         display: block;
