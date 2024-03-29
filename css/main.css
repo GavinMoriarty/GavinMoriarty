@@ -45,7 +45,7 @@
 /* Footer */
     #footer {
         clear: both;
-        position: fixed;
+        position: relative;
         background-color: gray;
         padding: 5px;
         bottom: 0;
