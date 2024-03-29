@@ -9,6 +9,18 @@
         height: auto;
     }
 
+        #body #snapshot {
+            position: absolute;
+            background: goldenrod;
+            height: 200px;
+            width: 50%;
+            top: 50%;
+            left: 37.5%;
+            text-align: left;
+            float: right;
+            padding-left: 10px;
+        }
+
     #body2 {
         display: block;
         height: 200px;
@@ -19,17 +31,7 @@
     }
 
 /* Elements */
-    #snapshot {
-        position: absolute;
-        background: goldenrod;
-        height: 200px;
-        width: 50%;
-        top: 50%;
-        left: 37.5%;
-        text-align: left;
-        float: right;
-        padding-left: 10px;
-    }
+
 
 /* Footer */
     #footer {
