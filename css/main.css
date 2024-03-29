@@ -14,7 +14,7 @@
         }
 
             #body1 #conatiner #snapshot {
-                position: absolute;
+                position: relative;
                 background: goldenrod;
                 height: auto;
                 width: 50%;
