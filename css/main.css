@@ -29,7 +29,8 @@
     float: left;
     padding-left: 10%;
     aspect-ratio: 962/571;
-    margin: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     border-width: 3px;
 }
 
@@ -76,7 +77,8 @@
         top: 50%;
         left: 12.5%;
         float: left;
-        margin: 20px;
+        margin-top: 30px;
+        margin-bottom: 30px;
         border-width: 3px;
     }
 
