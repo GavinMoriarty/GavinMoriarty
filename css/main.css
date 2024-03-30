@@ -24,11 +24,11 @@
     background: goldenrod;
     height: auto;
     width: 50%;
-    top: 50%;
-    left: 37.5%;
+    left: 12.5%;
     text-align: left;
-    float: right;
+    float: left;
     padding-left: 10px;
+    aspect-ratio: 962/571;
 }
 
 /* Footer */
