@@ -34,17 +34,6 @@
     border-width: 3px;
 }
 
-    #snapshot h2 {
-        font-style: normal;
-        font-weight: lighter;
-        font-size: larger;
-    }
-
-    #snapshot h3 {
-        font-weight: bold;
-        font-style: normal;
-    }
-
 /* Footer */
     #footer {
         clear: both;
