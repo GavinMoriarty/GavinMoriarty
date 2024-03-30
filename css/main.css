@@ -27,9 +27,17 @@
     left: 12.5%;
     text-align: left;
     float: left;
-    padding-left: 10px;
+    padding-left: 10%;
     aspect-ratio: 962/571;
+    margin: 20px;
+    border-width: 3px;
 }
+
+    #snapshot #h2 {
+        font-style: normal;
+        font-weight: lighter;
+        font-size: larger;
+    }
 
 /* Footer */
     #footer {
@@ -68,6 +76,8 @@
         top: 50%;
         left: 12.5%;
         float: left;
+        margin: 20px;
+        border-width: 3px;
     }
 
 /* Title */
