@@ -8,6 +8,7 @@
         width: 100%;
         height: auto;
         background-image: url("../Images/milkyway.png");
+        background-position: bottom;
     }
 
     #body2 {
